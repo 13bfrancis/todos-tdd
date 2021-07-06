@@ -1,0 +1,7 @@
+.testStyle {
+  color: hsl(0, 90%, 70%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto";
+}
